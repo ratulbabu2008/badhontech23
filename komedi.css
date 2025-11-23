@@ -1,0 +1,33 @@
+.komedi{
+    color:aquamarine;
+    display: grid;
+    background-color: rgb(102, 105, 105);
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: auto;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.cry{
+
+height: 300px;
+width: 400px;
+border-radius: 50%;
+border:1px solid black;
+background-image: url(WIN_20251123_21_56_06_Pro.jpg);
+background-size: cover;
+background-repeat:none;
+
+}
+    
+.wrapper{
+    height: 300px;
+    width: 100%;
+    border:1px solid green;
+    display: grid;
+    align-items: center;
+
+justify-content: center;
+background-color: mediumpurple;
+}
